@@ -1,0 +1,13 @@
+{
+  "name": "Grojimo laikas",
+  "short_name": "Grojimo laikas",
+  "description": "Pianino praktikos laiko sekimas per Bluetooth MIDI",
+  "start_url": "./piano-laikas.html",
+  "display": "standalone",
+  "background_color": "#1c140e",
+  "theme_color": "#2c2117",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
